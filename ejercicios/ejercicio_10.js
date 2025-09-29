@@ -10,4 +10,4 @@ info.innerHTML = `
   <strong>Padre:</strong> ${padre.id}<br>
   <strong>Total hijos:</strong> ${hijos.length}<br>
   <strong>Siguiente hermano de hijo1:</strong> ${siguiente.id}
-`;
+`
